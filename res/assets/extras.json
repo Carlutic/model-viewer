@@ -1,0 +1,46 @@
+[
+    {
+        "id": 10000000,
+        "name": "Paimon",
+        "weaponType": "Others",
+        "element": "Universal",
+        "gender": "Others",
+        "rarity": 5,
+        "directory": "gi/chars/Paimon",
+        "image": "Genshin/Paimon.png",
+        "pmx": "派蒙1.0.pmx"
+    },
+	{
+        "id": 10000001,
+        "name": "Pom-Pom",
+        "weaponType": "Others",
+        "element": "Universal",
+        "gender": "Others",
+        "rarity": 5,
+        "directory": "hsr/chars/Pom-Pom",
+        "image": "HSR/Pom-Pom.png",
+        "pmx": "Pom-Pom.pmx"
+    },
+    {
+        "id": 10000002,
+        "name": "Bangboo",
+        "weaponType": "Others",
+        "element": "Universal",
+        "gender": "Others",
+        "rarity": 5,
+        "directory": "zzz/chars/Bangboo",
+        "image": "ZZZ/Bangboo.png",
+        "pmx": "邦布.pmx"
+    },
+    {
+        "id": 10000003,
+        "name": "Abby",
+        "weaponType": "Others",
+        "element": "Universal",
+        "gender": "Others",
+        "rarity": 5,
+        "directory": "ww/chars/Abby",
+        "image": "WuWa/Abby.png",
+        "pmx": "Abby.pmx"
+    }
+]
