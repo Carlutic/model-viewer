@@ -670,14 +670,14 @@ video {
 .max-h-\[340px\] {
   max-height: 340px;
 }
-.max-h-\[420px\] {
-  max-height: 420px;
-}
 .max-h-\[460px\] {
   max-height: 460px;
 }
 .max-h-\[620px\] {
   max-height: 620px;
+}
+.max-h-\[640px\] {
+  max-height: 640px;
 }
 .w-10 {
   width: 2.5rem;
