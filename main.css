@@ -1271,6 +1271,29 @@ body {
 .tab-strip::-webkit-scrollbar {
     display: none;
 }
+
+/* ---------------------------------------------------------------------------
+ * Mobile layout: slightly smaller fonts everywhere and full-width bottom-sheet
+ * panels (motion list, music picker, camera picker, lighting/scene/render/morph).
+ * Panels keep the bottom playback bar visible above the sheet.
+ * ------------------------------------------------------------------------- */
+@media (max-width: 640px) {
+    html {
+        font-size: 14px;
+    }
+
+    .mobile-sheet {
+        left: 0 !important;
+        right: 0 !important;
+        top: auto !important;
+        bottom: 46px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        max-height: 58vh !important;
+        border-radius: 14px 14px 0 0 !important;
+        z-index: 40 !important;
+    }
+}
 .placeholder\:text-white\/40::-moz-placeholder {
   color: rgb(255 255 255 / 0.4);
 }
